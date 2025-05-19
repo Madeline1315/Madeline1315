@@ -1,9 +1,6 @@
-## Hi there 👋
-👋 Hi there! I'm Maddy, a sophomore at Miami University majoring in Software Engineering.  
-🔭 I’m currently working on a **baking website project** that uses React.js for the frontend and Spring Boot with MySQL for the backend.  
-🌱 I’m currently learning more about **full-stack development**, **Spring Boot**, and **database integration**.  
-👯 I’m looking to collaborate on projects involving **web development**, **AI solutions**, or anything that solves real-world problems creatively!    
-📫 Reach me at lobdell421@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/madeline-lobdell/)
+## Hi there 
+Hi! I'm Maddy, a sophomore at Miami University majoring in Software Engineering.  
+Reach me at lobdell421@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/madeline-lobdell/)
 
 
 <!--
